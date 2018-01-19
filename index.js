@@ -6,3 +6,7 @@ function happyHolidays() {
 function happyHolidaysTo(parameter) {
   return `Happy holidays, ${parameter}!`
 }
+
+function happyHolidayTo(holiday, name) {
+  return 'Happy '
+}
