@@ -4,5 +4,5 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo(parameter) {
-  console.log('Happy holidays', {parameter})
+  return 'Happy Holidays,' ${parameter}
 }
