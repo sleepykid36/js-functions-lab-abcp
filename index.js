@@ -8,5 +8,6 @@ function happyHolidaysTo(parameter) {
 }
 
 function happyHolidayTo(holiday, name) {
-  return 'Happy '
+  return `Happy ${holiday}, ${name}!`
 }
+
